@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "SHAIKH anwar/node-app-test-new:latest"
+    image: "shanwar199@gmail.com/node-app-test-new:latest"
     ports:
       - "8000:8000"
